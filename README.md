@@ -17,7 +17,7 @@ This project demonstrates various Flutter animations, including implicit and exp
 ### 1. **Splash Animation**
 A circle starts small and expands on tap. Once fully expanded, it transitions to a new screen using a fade transition.
 
-![Splash Animation GIF](path_to_your_gif/splash_animation.gif)
+![Splash Animation GIF](Splash Animation.gif)
 
 ### 2. **Pulsating Circle Animation**
 A circle pulsates in size while displaying a label in the center. The animation duration is set to 15 seconds.
