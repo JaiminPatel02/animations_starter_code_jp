@@ -20,7 +20,7 @@ A circle starts small and expands on tap. Once fully expanded, it transitions to
 ![Splash Animation GIF](splashanimation.gif)
 
 ### 2. **Pulsating Circle Animation**
-A circle pulsates in size while displaying a label in the center. The animation duration is set to 15 seconds.
+A circle pulsates in size while displaying a label in the center. The animation duration is set to 5 seconds.
 
 ![Pulsating Circle Animation GIF](pulsatingcircleanimation.gif)
 
