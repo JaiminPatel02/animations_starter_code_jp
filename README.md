@@ -27,17 +27,17 @@ A circle pulsates in size while displaying a label in the center. The animation 
 ### 3. **Shopping Cart Button Animation**
 This animation showcases a shopping cart button that expands and shrinks upon tap, with color and icon transitions.
 
-![Shopping Cart Button Animation GIF](path_to_your_gif/shopping_cart_button.gif)
+![Shopping Cart Button Animation GIF](shoppingcartbutton.gif)
 
 ### 4. **Animated Color Palette**
 A set of color boxes that animate their color transition. Tap the button to regenerate a new color palette.
 
-![Animated Color Palette GIF](path_to_your_gif/color_palette.gif)
+![Animated Color Palette GIF](animatedcolorpalette.gif)
 
 ### 5. **Login Screen Animation**
 The login screen features a logo that fades in and a form that slides up and scales into place when the animation is triggered.
 
-![Login Screen Animation GIF](path_to_your_gif/login_screen.gif)
+![Login Screen Animation GIF](loginscreenanimation.gif)
 
 ### 6. **Radial Progress Animation**
 A radial progress bar animates to show the percentage of completion. The progress is updated when the user taps the floating action button.
@@ -47,10 +47,5 @@ A radial progress bar animates to show the percentage of completion. The progres
 ### 7. **List Animation**
 A list of items slides into view one by one, creating a smooth transition as each item appears.
 
-![List Animation GIF](path_to_your_gif/list_animation.gif)
+![List Animation GIF](listanimation.gif)
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/animation-app.git
