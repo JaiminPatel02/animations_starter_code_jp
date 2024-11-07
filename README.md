@@ -22,7 +22,7 @@ A circle starts small and expands on tap. Once fully expanded, it transitions to
 ### 2. **Pulsating Circle Animation**
 A circle pulsates in size while displaying a label in the center. The animation duration is set to 15 seconds.
 
-![Pulsating Circle Animation GIF](path_to_your_gif/pulsating_circle.gif)
+![Pulsating Circle Animation GIF](pulsatingcircleanimation.gif)
 
 ### 3. **Shopping Cart Button Animation**
 This animation showcases a shopping cart button that expands and shrinks upon tap, with color and icon transitions.
